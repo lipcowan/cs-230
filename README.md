@@ -15,7 +15,7 @@ Forced me to work systematically and plan ahead in a big picture way.
 
 
 ### If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-I would permit myself more time to get further into the nitty gritty of the security section.
+I would have liked to explore the recommendations in project two more - the various pros and cons of each of the operating systems. I think I got a bit lost in the weeds. 
 
 ### How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 I focused on the user needs while thinking ahead about what exisiting architecture may be repurposed accross multiple platforms. 
